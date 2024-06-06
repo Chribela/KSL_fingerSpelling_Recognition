@@ -1,0 +1,13 @@
+﻿streamlit>=1.10.1
+numpy>=1.21.1
+tensorflow==2.12.0
+scikit-image[data]>=0.19
+absl-py
+attrs>=19.1.0
+flatbuffers>=2.0
+matplotlib
+opencv-python-headless
+protobuf>=3.11,<4
+sounddevice>=0.4.4
+
+
