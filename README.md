@@ -99,6 +99,4 @@ Our success metrics is accuracy. The model that had the highest accuracy for the
 * The dataset could be expanded to include more images of fingerspelling gestures, which would improve the accuracy of the model.
 * The images in the dataset could be improved in terms of quality, which would also improve the accuracy of the model.
 * The model could be extended to recognize fingerspelling for other letters and words, which would make it more versatile.
-* The model could be integrated with other technologies, such as NLP and speech recognition, to provide a more comprehensive communication solution for deaf and hard of hearing individuals.
-
-
+* The model could be integrated with other technologies, such as NLP and speech recognition, providing more effective communication. 
